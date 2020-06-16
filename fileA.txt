@@ -1,1 +1,1 @@
-This is the content of fileA.txt
+This is a changes content of fileA.txt
