@@ -1,1 +1,1 @@
-Adding functionality C.
+This is a content of file C.
