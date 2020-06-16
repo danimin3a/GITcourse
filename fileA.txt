@@ -1,5 +1,2 @@
-<<<<<<< HEAD
 Funtionality A 2.0
-=======
 Functionality A version 2.0
->>>>>>> testing
