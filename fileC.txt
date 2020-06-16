@@ -1,1 +1,1 @@
-This is a content of file C.
+This is a content of file C changed.
